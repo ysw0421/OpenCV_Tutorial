@@ -18,3 +18,7 @@ Run from anaconda prompt:</br>
 <code>pip install opencv_python-3.4.1 + contrib-cp36-cp36m-win_amd64.whl</code></br>
 To verify that opencv is downloaded:</br>
 <code>import cv2</code></br>
+</br>
+## PyCharm
+When generating pycharm project, interpreter setting :
+clik File->Setting

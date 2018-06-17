@@ -22,3 +22,4 @@ To verify that opencv is downloaded:</br>
 ## PyCharm
 When generating pycharm project, interpreter setting :
 clik File->Setting
+<img src="/img/setting.JPG" height="575" width="733"></br>
